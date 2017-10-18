@@ -1,0 +1,6 @@
+158.85.81.125 - - [18/Oct/2017:10:41:38 +0200] "GET / HTTP/1.1" 200 1378 simonhamery.com "-" "-" "-"
+217.160.152.37 - - [18/Oct/2017:11:32:40 +0200] "GET / HTTP/1.1" 200 1378 simonhamery.com "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A" "-"
+217.160.152.37 - - [18/Oct/2017:11:32:40 +0200] "GET / HTTP/1.1" 200 1378 simonhamery.com "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A" "-"
+217.160.152.37 - - [18/Oct/2017:11:32:40 +0200] "GET /images/simon.jpg HTTP/1.1" 200 70005 simonhamery.com "http://simonhamery.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A" "-"
+217.160.152.37 - - [18/Oct/2017:11:32:40 +0200] "GET /style/style.css HTTP/1.1" 200 1936 simonhamery.com "http://simonhamery.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A" "-"
+217.160.152.37 - - [18/Oct/2017:11:32:41 +0200] "GET /style/acherus_grotesque_-_regular-webfont.woff HTTP/1.1" 200 31432 simonhamery.com "http://simonhamery.com/style/style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A" "-"

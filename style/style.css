@@ -1,0 +1,141 @@
+@font-face {
+    font-family: 'MaPolice';
+    src : url('acherus_grotesque_-_regular-webfont.woff') format('woff');
+}
+
+h3,h2
+{
+	font-family: 'MaPolice', Arial,serif;
+	color: #0D045F;
+}
+
+h2
+{
+	margin-top: 0px;
+	text-align: left;
+	margin-left: 10%;
+	color: #0D045F;
+}
+
+
+html, body {
+	height: 100%;
+	margin: 0; padding: 0;
+}
+
+body {
+	overflow-x:hidden;
+	display : table;
+	width: 100%;
+}
+
+img.displayed {
+	border-radius: 8px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:10%;
+    height:10%;
+    border-radius: 50%; 
+    vertical-align:top;
+}
+
+#banner1 
+{
+	display: block;
+	background-color: #84D7FF;
+	height: 50px;
+	width: 100%;
+	margin-top: 0px;
+}
+
+
+#menu
+{
+	background-color: #0099CC;
+	height: 100px;
+	width: 100%;
+	position: relative;
+	min-width: 500px;
+}
+
+#menu ul 
+{
+	float : left;
+	left: 50%;
+	padding-top: 15px;
+	margin-left: -60px;
+	position: relative;
+
+}
+
+#menu ul li
+{
+	float: left;
+	list-style-type: none;
+	margin-left: 20px;
+	position: relative;
+	left: -50%;
+}
+
+#menu ul li a {
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	height: 30px;
+	width: 100px;
+	background-color: #A9D0F5;
+	text-align: center;
+	padding-top: 5px;
+	font-family: 'MaPolice', Arial,serif;
+	font-weight: bold;
+	color: black;
+}
+
+#menu ul li a:hover
+{
+	color: white;
+}
+
+#banner2
+{
+	display: block;
+	background-color: #84D7FF;
+	height: 50px;
+	width: 100%;
+}
+
+#contenuprincipal
+{
+	display: block;
+	width: 90%;
+	margin: auto;
+	min-height:80%;
+}
+
+#conteneur
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#contenuprincipal p
+{
+	font-family: 'MaPolice', Arial,serif;
+}
+
+#footer {
+	display : table-row;
+    background:#6cf;
+    text-align: center;
+	background-color: #84D7FF;
+	height: 20px;
+}
+
+#footer p
+{
+	font-family: 'MaPolice', Arial,serif;
+	position: relative;
+	top : 1px;
+}
